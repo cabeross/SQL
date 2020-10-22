@@ -1,1 +1,1 @@
-# SQL
+# SQL - projekt sklepu internetowego
